@@ -17,7 +17,7 @@
   
 <p align="center">
   <a href=<div class="social-icons">
-  <a href="https://x.com/HexZypher" target="_blank">
+  <a href="https://x.com/_Dripxel" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://t.me/TouFiqVH" target="_blank">
