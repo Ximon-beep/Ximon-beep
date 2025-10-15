@@ -56,16 +56,6 @@
     <img alt="GitHub Contributor Stats" height="150em" src="https://github-contributor-stats.vercel.app/api?username=Ximon-beep&limit=5&theme=github&combine_all_yearly_contributions=true">
   </picture>
 </div>
-
-<div align="center">
-  <a href="mailto:Ximon-beep@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/Ximon-beep" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
-
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>
