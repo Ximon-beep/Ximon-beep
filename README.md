@@ -15,12 +15,15 @@
     </tr>
   </div>
   
-
+<p align="center">
+  <a href=<div class="social-icons">
+  <a href="https://x.com/hexzpyher" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
   <a href="https://t.me/TouFiqVH" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   </p>
-
 ---
 
 <h2 align="center">
